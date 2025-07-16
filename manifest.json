@@ -4,7 +4,7 @@
         {
             "folder": "1.20.1-forge-47.4.0",
             "file": "1.20.1-forge-47.4.0.json",
-            "sha1": "4384c960370b2c58ca4ac3b83c581626011aad52"
+            "sha1": "f1d96f9fedb234e8eeb776397ad10c780f755609"
         }
     ],
     "mods": [
@@ -179,6 +179,10 @@
         {
             "file": "twilightforest-1.20.1-4.3.2508-universal.jar",
             "sha1": "fa3b506a45d3e9c465551cd533fd50c899496e9f"
+        },
+        {
+            "file": "worldedit-mod-7.2.15-1.20.1-fabric-forge.jar",
+            "sha1": "9c52765ca56f917ef8cbafc20e9a4f45c346508f"
         },
         {
             "file": "wthit-forge-8.16.1-1.20.1-forge.jar",
