@@ -1,12 +1,6 @@
 {
     "game_version": "1.20.1-forge-47.4.0",
-    "versions": [
-        {
-            "folder": "1.20.1-forge-47.4.0",
-            "file": "1.20.1-forge-47.4.0.json",
-            "sha1": "f1d96f9fedb234e8eeb776397ad10c780f755609"
-        }
-    ],
+    "versions": [],
     "mods": [
         {
             "file": "abridged-forge-1.20.x-1.1.1.jar",
@@ -195,6 +189,14 @@
         {
             "file": "kotlinforforge-4.11.0-all.jar",
             "sha1": "1fd8acfd75a2be2dc3cdcc7e816482b2e427d6e5"
+        },
+        {
+            "file": "letsdo-api-forge-1.2.15-forge.jar",
+            "sha1": "a261043a45097d861a13a63ebdbb0ca350e06a63"
+        },
+        {
+            "file": "letsdo-beachparty-forge-2.0.2.jar",
+            "sha1": "746d61cc6cb7ed557bf6e5872930d68e15baec6d"
         },
         {
             "file": "LoginSecurity-3.2.0-Bukkit.jar",
