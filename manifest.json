@@ -109,7 +109,7 @@
             "sha1": "ba099ef549d1bf54399c59898ca70bec25404859"
         },
         {
-            "file": "entityculling-forge-1.8.0-mc1.20.1.jar",
+            "file": "entityculling-forge-1.8.2-mc1.20.1.jar",
             "sha1": "5ed709ff70c392fc3015101ac1694016c0654eea"
         },
         {
@@ -319,3 +319,4 @@
     ]
 
 }
+
